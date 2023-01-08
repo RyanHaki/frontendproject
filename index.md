@@ -8,5 +8,6 @@
 | Taco Bell | 5  | Taco Bell has managed the perfect blend of seasonings and have replicated the taste of mexican food to make the cutsomers keep coming back for more. They used a blend of onion, garlic, sugar, and beef boullon granuiles. | <img title="a title" alt="Alt text" src="/images/tacobell.PNG">
 | Carl's Jr. | 6 | Carls jr offers fresh produce, wide range of items, usually really fast. They have high quality ingredients and very fast without delay. The mastered a perfect blend of fresh and barbacue with having burgers. | <img title="a title" alt="Alt text" src="/images/carls.PNG">
 | Burger King | 7 | Each Whopper sandwich is created with 100% beef, allowing for the natural, juicy flavor of a real burger. With no fillers, preservatives, or additives, the Whopper is made with 1/4lb of flame-grilled beef and freshly prepared for each order. | <img title="a title" alt="Alt text" src="/images/burgerking.PNG">
+| Mc'Donalds | 8 | Mc'Donalds is has decnet burgers but do not put enough effort into their burgers and sandwhiches. But their breakfast meals are good with a combination of pancackes, sandwhich, and bacon. | <img title="a title" alt="Alt text" src="/images/mcodnals.PNG">
 
 
