@@ -5,5 +5,6 @@
 | Chipotle | 2 | Chipotle's menu has mutliple ingredients to create an indivudal plate with very flavorul and good quality meat and vegetables. The Chips at Chipotle is very popular and liked amongst the cusutomers | <img title="a title" alt="Alt text" src="/images/chipotle.PNG">
 | In-N-Out | 3 | Their patties are free of additives, fillers, and preservatives of any kind. But it's just not the meat. The lettuce, tomatoes, and cheese are all fresh, too. The fires and potateos also outcompete their compettiors in terms of flavor as | <img title="a title" alt="Alt text" src="/images/In-N-out.PNG">
 | Subway  |  4  |   Bread choices, the “lubrication” of the sandwich, the use of fats, the seasoning of vegetables, and the strategic stacking of ingredients. These are all the main reasons why Subway is so delicious and is a fan favorite |  <img title="a title" alt="Alt text" src="/images/ssubway.PNG">
+| Taco Bell | 5  | Taco Bell has managed the perfect blend of seasonings and have replicated the taste of mexican food to make the cutsomers keep coming back for more. They used a blend of onion, garlic, sugar, and beef boullon granuiles. | <img title="a title" alt="Alt text" src="/images/tacobell.PNG">
 
 
