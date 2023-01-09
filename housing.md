@@ -1,5 +1,5 @@
 ## Healthiest Foods in different Fast Food Restaurants
-> Sleeps 48 people. Verify your housing assignment at the reunion with Jeremiah and Melissa in case there are last minute changes.
+> All this information was based upon the amount of calories in a main course meal at a Fast Food Restaurant. Some restaurants like Subway and Chipotle are not listed here because of their option to create your own meal. This results in one main course meal having a different amount of calories.
 
 ## Wendy's
 
