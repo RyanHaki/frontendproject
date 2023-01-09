@@ -12,6 +12,18 @@
 > On site there are cooking facilities in each house. The Alpine ranch kitchens will be for large group meals and has appliances and utensils. There is an outdoor barbecue!
 
 
+| Restaurants | Most Healthy | Less Healthy |
+| — | — | — |
+| Wendy’s | Jr. Hamburger | Pretzel Bacon Pub Triple <img src="/images/wendys_no_healthy.png" width="200px" /> |
+| Mcdonalds | The classic McDonald’s Burger | Double Quarter Pounder with Cheese |
+| Carl’s Jr | Hamburger kid’s meal | Super Star with Cheese |
+| In-N-Out | Hamburger | 4X4 |
+| Taco bell | Crunchy Taco |Spicy Double Steak Grilled Cheese Burrito |
+| Jack in the box | Jr. Jumbo Jack | Bacon Ultimate Cheeseburger |
+| Burger King | Hamburger | Triple Whopper |
+| Chick fil A | Grilled Nuggets | Cool Wrap |
+
+
 ## Housing Assignment
 
 | Family | Attending | Assignment | Count | Children | Arrive | Depart
