@@ -12,53 +12,58 @@
 > On site there are cooking facilities in each house. The Alpine ranch kitchens will be for large group meals and has appliances and utensils. There is an outdoor barbecue!
 
 
-| Restaurants | Most Healthy | Less Healthy |
-| — | — | — |
-| Wendy’s | Jr. Hamburger | Pretzel Bacon Pub Triple <img src="/images/wendys_no_healthy.png" width="200px" /> |
-| Mcdonalds | The classic McDonald’s Burger | Double Quarter Pounder with Cheese |
-| Carl’s Jr | Hamburger kid’s meal | Super Star with Cheese |
-| In-N-Out | Hamburger | 4X4 |
-| Taco bell | Crunchy Taco |Spicy Double Steak Grilled Cheese Burrito |
-| Jack in the box | Jr. Jumbo Jack | Bacon Ultimate Cheeseburger |
-| Burger King | Hamburger | Triple Whopper |
-| Chick fil A | Grilled Nuggets | Cool Wrap |
+## Wendy's
 
+| Healthiest | Less Healthy |
+| --- | --- |
+| Jr. Hamburger <img src="/images/wendys_yes_heal.png" width="200px" />| Pretzel Bacon Pub Triple <img src="/images/wendys_no_healthy.png" width="200px" />|
+| 250 calories, 11g Total fat, 25g carbs, and 5g sugars | 1530 calories, 107g Total fat, 53g carbs, and 6g Total sugars |
 
-## Housing Assignment
+## Mcdonalds
 
-| Family | Attending | Assignment | Count | Children | Arrive | Depart
-| --- | --- | --- | --- | --- | --- | --- |
-| Frank, Judith | Yes | Dogwood Primary | 2 | None | Mon | Sat |
-| | | | | |
-| Johnner, Lora | Yes | ? | 3 | Shay (14) | Mon | Sat |
-| Trent, Yuri | Yes | ? | 5 | Amelia (8), Cruz (6), Gavi (1) | Mon | Sat |
-| Corey | Yes | ? | 1 | - | Mon | Fri |
-| Tiernan | Yes | ? | 1 | - | Mon | Sat |
-| Claire | Yes | ? | 1 | - | Mon | Sat |
-| | | | | |
-|Lisa-Anne, Chris | Yes | ? | 1+ | None | Mon | Sat |
-|Brianna, Forest | Yes | ? | 6 | Sayla (6), Tundra (4), Alora (2), Keelynn (1) | Mon | Sat |
-|Kira, Spencer | Yes | ? | 5 | Georgianna (6), James (5), Arabella (2), Hunter (NB) | Mon | Sat |
-|Ethan, Layne | Yes | ? | 6 | William (6), Lily (4), Adeline (2), Eleanor (1) | Mon | Sat |
-| Jarom | Yes | ? | 1 | None | Mon | Sat |
-| Braden | Yes | ? | 1 | None | Mon | Sat |
-| | | | | |
-| Mathew | ? | ? | 1 | None | Unk | Unk |
-| | | | | |
-| Sherri, Drumond | Yes | ? | 2 | None | Mon | Sat |
-| Taylor | Yes | ? | 1 | None | Unk | Unk |
-| Jake | Yes | ? | 1 | None | Unk | Unk |
-| | | | | |
-| Angela, Tye | Yes | ? | 2 | None | Mon | Sat |
-| Bryce | ? | ? | 1 | None | Unk | Unk |
-| Aspen, Brandon | ? | ? | 2 | None | Unk | Unk |
-| Calem | ? | ? | 1 | None | Unk | Unk |
-| | | | | |
-| Jared, Janice | Yes | ? | 4 | Kelle (15), Naya (13) | Mon | Sat |
-| | | | | |
-| John, Melanie | Yes | ? | 4 | Connor (17), Sophia (14) | Mon | Sat |
-| Isaiah | ? | ? | 1 | None | Unk | Unk |
-| | | | | |
-| Jeremiah, Melissa | Yes | ? | 3 | Liam (11) | Mon | Sat |
-| Annalyce | ? | ? | 1 | None | Unk | Unk |
-| Peyton | Yes | ? | 1 | None | Unk | Unk |
+| Healthiest | Less Healthy |
+| --- | --- |
+| The classic McDonald’s Burger | Double Quarter Pounder with Cheese |
+| 250 calories, 9g Total fat, 31g carbs, and 6g Total sugars | 740 calories, 42g Total fat, 43g carbs, and 10g Total sugars|
+
+## Carl's Jr
+
+| Healthiest | Less Healthy |
+| --- | --- |
+| Hamburger kid’s meal | Super Star with Cheese |
+| 200 calories, 9g Total fat, 1g carbs, and 7g Total sugars| 920 calories, 56g Total fat, 59g carbs, and 13g Total sugars|
+
+## In-N-Out
+
+| Healthiest | Less Healthy |
+| --- | --- |
+| Hamburger | Double-Double |
+| 390 calories, 19g Total fat, 39g carbs, and 10g Total sugars | 670 calories, 41g Total fat, 39g carbs, and 10g Total sugars|
+
+## Taco Bell
+
+| Healthiest | Less Healthy |
+| --- | --- |
+| Crunchy Taco | Double Steak Grilled Cheese Burrito |
+| 170 calories, 10g Total fat, 13g carbs, and <1g Total sugars | 920 calories, 44g Total fat, 91g carbs, and 7g Total sugars|
+
+## Jack in the box
+
+| Healthiest | Less Healthy |
+| --- | --- |
+| Jr. Jumbo Jack | Bacon Ultimate Cheeseburger |
+| 400 calories | 930 calories |
+
+## Burger King
+
+| Healthiest | Less Healthy |
+| --- | --- |
+| Hamburger | Double Whopper with Cheese |
+| 259 calories, 10g Total fat, 29g carbs, and 7g Total sugars| 1010 calories, 65g Total fat, 56g carbs, and 14g Total sugars|
+
+## Chick fil A
+
+| Healthiest | Less Healthy |
+| --- | --- |
+| Grilled Nuggets | Spicy Deluxe Sandwich |
+| 80 calories, 2g Total fat, 1g carbs, and 0g Total sugars| 660 calories, 45g Total fat, 32g carbs, and 5g Total sugars|
