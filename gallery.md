@@ -1,6 +1,7 @@
 ## Gallery
 > A gallery of all foods that we can find
-- permalink: "/gallery"
+title: "Gallery"
+permalink: "/gallery"
 
 ## Food Pictures
 <div class="row"> <!--- make a new row -->
