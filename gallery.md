@@ -1,8 +1,6 @@
-## Mom and Pop Leuck
-<!---
-Markdown Format takes entire column
--->
-![](images/Dad_Mom_2019.jpg)
+## Gallery
+> A gallery of all foods that we can find
+- permalink: "/gallery"
 
 ## Food Pictures
 <div class="row"> <!--- make a new row -->
