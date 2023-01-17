@@ -269,3 +269,51 @@ body {font-family: Didot, serif;}
 No matter what type of fast food you’re looking for, these restaurants are sure to offer some of the best value around. With these 10 restaurants, you’re sure to find a meal that fits your budget.
 
 
+<ul>
+</ul>
+
+
+
+
+<html>
+    <head>
+      <title>Fast Food Ranking System</title>
+      <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+      <h1>Fast Food Ranking System</h1>
+      <div>
+        <ul>
+          <li>Restaurant 1</li>
+          <li>Restaurant 2</li>
+          <li>Restaurant 3</li>
+          <li>Restaurant 4</li>
+        </ul>
+        <div>
+          <button>Create Ranking</button>
+          <button>Read Ranking</button>
+          <button>Update Ranking</button>
+          <button>Delete Ranking</button>
+        </div>
+      </div>
+      <div>
+        <h2>Average Rankings</h2>
+        <ul>
+          <li>Restaurant 1: 9.5</li>
+          <li>Restaurant 2: 8.2</li>
+          <li>Restaurant 3: 7.3</li>
+          <li>Restaurant 4: 6.8</li>
+        </ul>
+      </div>
+      <div>
+        <h2>Search Rankings</h2>
+        <form>
+          <input type="text" placeholder="Enter user name">
+          <input type="submit" value="Submit">
+        </form>
+      </div>
+      <div>
+        <button>View All User Rankings</button>
+      </div>
+    </body>
+  </html>
