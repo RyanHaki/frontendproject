@@ -1,5 +1,5 @@
 ## Flavour Ranking
-{% include button.html url="https://www.in-n-out.com/" %}
+[In-N-Out Information](https://www.in-n-out.com){: .btn}
 
 
 | Resturant Name | Rank Order | Comments | Picture 
