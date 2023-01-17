@@ -1,4 +1,4 @@
-## Healthiest Foods in different Fast Food Restaurants
+# Healthiest Foods in different Fast Food Restaurants
 > All this information was based upon the amount of calories in a main course meal at a Fast Food Restaurant. Some restaurants like Subway and Chipotle are not listed here because of their option to create your own meal. This results in one main course meal having a different amount of calories.
 
 ## Wendy's
@@ -56,3 +56,66 @@
 | --- | --- |
 | Grilled Nuggets | Spicy Deluxe Sandwich |
 | 80 calories, 2g Total fat, 1g carbs, and 0g Total sugars| 660 calories, 45g Total fat, 32g carbs, and 5g Total sugars|
+
+# Food Data Table
+
+## Insert New Food Item
+
+<table>
+    <tr>
+        <th><label for="Food">Food</label></th>
+        <th><label for="Restaurant">Restaurant</label></th>
+        <th><label for="Protein">Protein</label></th>
+        <th><label for="Fat">Fat</label></th>
+        <th><label for="Sugar">Sugar</label></th>
+        <th><label for="Carbs">Carbs</label></th>
+    </tr>
+    <tr>
+        <td><input type="text" size="20" name="Food name" id="Food" placeholder="Food" required></td>
+        <td><input type="text" size="10" name="Restaurant" id="Restaurant" placeholder="Restaurant" required></td>
+        <td><input type="text" size="5" name="Protein" id="Protein" placeholder="Protein" required></td>
+        <td><input type="text" size="5" name="Fat" id="Fat" placeholder="Fat" required></td>
+        <td><input type="text" size="5" name="Sugar" id="Sugar" placeholder="Sugar" required></td>
+        <td><input type="text" size="5" name="Carbs" id="Carbs" placeholder="Carbs" required></td>
+        <td ><button onclick="create_User()">Create</button></td>
+    </tr>
+</table>
+
+## Food Items
+Sort by <button onclick="cal_Protein()">Protein</button> <button onclick="cal_Fat()">Fat</button> <button onclick="cal_Sugar()">Sugar</button> <button onclick="cal_Carbs()">Carbs</button>
+<table>
+  <thead>
+  <tr>
+    <th>Food</th>
+    <th>Restaurant</th>
+    <th>Protein</th>
+    <th>Fat</th>
+    <th>Sugar</th>
+    <th>Carbs</th>
+  </tr>
+  </thead>
+  <tbody id="table">
+    <!-- javascript generated data --> 
+    <tr>
+      <th>SOMETHING</th>
+      <th>Somewhere</th>
+      <th>8</th>
+      <th>220</th>
+      <th>700</th>
+      <th>1100</th>
+      <td ><button size="5" onclick="Update_food()">Update</button></td>
+      <td ><button size="5" onclick="Delete_food()">Delete</button></td>
+    </tr>
+    <tr>
+      <th>NOTHING</th>
+      <th>Nowhere</th>
+      <th>0</th>
+      <th>0</th>
+      <th>0</th>
+      <th>0</th>
+      <td ><button onclick="Update_food()">Update</button></td>
+      <td ><button onclick="Delete_food()">Delete</button></td>
+    </tr>
+  </tbody>
+</table>
+
