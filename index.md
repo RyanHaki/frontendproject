@@ -102,6 +102,26 @@
       </form>
    </body>
 
+<html>
+   <head>
+      <title>Title of the document</title>
+   </head>
+   <body>
+      <form action="https://www.subway.com/en-US">
+         <button type="submit">Subway</button>
+      </form>
+   </body>
+
+<html>
+   <head>
+      <title>Title of the document</title>
+   </head>
+   <body>
+      <form action="https://www.tacobell.com/">
+         <button type="submit">Taco Bell</button>
+      </form>
+   </body>
+
 
 
 
