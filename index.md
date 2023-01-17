@@ -13,3 +13,48 @@
 | Mc'Donalds | 8 | Mc'Donalds is has decnet burgers but do not put enough effort into their burgers and sandwhiches. But their breakfast meals are good with a combination of pancackes, sandwhich, and bacon. | <img title="a title" alt="Alt text" src="/images/mcodnals.PNG">
 | Wendy's | 9 | The best option in Wendy's is definetly the bacinator because of the amount of bacon and sacue that are in there which makes it flavorful. Other than that, there are not much options which outcompetes the other fast food resturants |  <img title="a title" alt="Alt text" src="/images/wendyhs.PNG">
 | Jack in The Box | 10 | Jack in The box dosen't have much special, almost every other resturant has something unique about their food but Jack in the box seems like a worse version of Mc-Donalds | <img title="a title" alt="Alt text" src="/images/jack.PNG">
+
+### Different Tools and Resources for Researching
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <form>
+      <input type="button" onclick="window.location.href='https://www.in-n-out.com';" value="In-N-Out" />
+    </form>
+  </body>
+</html>
+
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <form>
+      <input type="button" onclick="window.location.href='https://www.chipotle.com/';" value="Chipotle" />
+    </form>
+  </body>
+</html>
+
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <form>
+      <input type="button" onclick="window.location.href='https://www.chick-fil-a.com/';" value="Chick-Fil-A" />
+    </form>
+  </body>
+</html>
+
+<html>
+   <head>
+      <title>Title of the document</title>
+   </head>
+   <body>
+      <form action="https://www.jackinthebox.com/">
+         <button type="submit">Jack in The Box</button>
+      </form>
+   </body>
+</html>
