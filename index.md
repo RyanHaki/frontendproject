@@ -1,4 +1,6 @@
 ## Flavour Ranking
+{% include button.html url="https://www.in-n-out.com/" %}
+
 
 | Resturant Name | Rank Order | Comments | Picture 
 | Chick-fil-A  | 1 | The bright salty flavor and extra tender meat that result from brining are consistent with what we expect from this chicken-focused fast food chain! Chick-fil-A sauce has a smoky, sweet, creamy flavor that can be slightly compared to BBQ sauce. In fact, Chick-fil-A sauce was created when BBQ sauce was accidentally mixed with a honey mustard recipe that was prepared. | <img title="a title" alt="Alt text" src="/images/chickfila.PNG">
@@ -11,6 +13,3 @@
 | Mc'Donalds | 8 | Mc'Donalds is has decnet burgers but do not put enough effort into their burgers and sandwhiches. But their breakfast meals are good with a combination of pancackes, sandwhich, and bacon. | <img title="a title" alt="Alt text" src="/images/mcodnals.PNG">
 | Wendy's | 9 | The best option in Wendy's is definetly the bacinator because of the amount of bacon and sacue that are in there which makes it flavorful. Other than that, there are not much options which outcompetes the other fast food resturants |  <img title="a title" alt="Alt text" src="/images/wendyhs.PNG">
 | Jack in The Box | 10 | Jack in The box dosen't have much special, almost every other resturant has something unique about their food but Jack in the box seems like a worse version of Mc-Donalds | <img title="a title" alt="Alt text" src="/images/jack.PNG">
-[In-N-Out Infomration="https://www.in-n-out.com/"]
-
-
