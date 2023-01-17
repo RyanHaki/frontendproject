@@ -122,6 +122,16 @@
       </form>
    </body>
 
+<html>
+    <head>
+        <title>This is Extra Information</title>
+    </head>
+    <body>
+        <form action="https://fastfood.theringer.com/">
+            <button type="submit">Best Food Ranked</button>
+        </form>
+    </body>
+
 
 
 
