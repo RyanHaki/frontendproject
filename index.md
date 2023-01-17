@@ -58,3 +58,36 @@
       </form>
    </body>
 </html>
+
+<html>
+   <head>
+      <title>Title of the document</title>
+   </head>
+   <body>
+      <form action="https://www.wendys.com/">
+         <button type="submit">Jack in The Box</button>
+      </form>
+   </body>
+</html>
+
+<html>
+   <head>
+      <title>Title of the document</title>
+   </head>
+   <body>
+      <form action="https://www.wendys.com/">
+         <button type="submit">Wendys</button>
+      </form>
+   </body>
+</html>
+
+<html>
+   <head>
+      <title>Title of the document</title>
+   </head>
+   <body>
+      <form action="https://www.bk.com/">
+         <button type="submit">Burger King</button>
+      </form>
+   </body>
+</html>
